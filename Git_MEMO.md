@@ -7,4 +7,6 @@
     - git status
 - ファイルを登録する
     - git add
+- ブランチを作成
+    - git branch
     
