@@ -9,4 +9,6 @@
     - git add
 - ブランチを作成
     - git branch
+- ブランチを作成
+    - git checkout -b
     
